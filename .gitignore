@@ -109,3 +109,7 @@ venv.bak/
 *.css linguist-language=Python
 
 *.html linguist-language=Python
+
+
+#pycharm
+.idea
