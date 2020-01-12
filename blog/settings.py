@@ -88,8 +88,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'HOST': 'localhost',
         'PORT': '3306',
-        'USER': 'stormsha_blog;',
-        'PASSWORD': 'stormsha_blog2020',
+        'USER': 'root',
+        'PASSWORD': 'logread@2018',
         'NAME': 'blog',
         # 避免映射数据库时出现警告
         'OPTIONS': {
